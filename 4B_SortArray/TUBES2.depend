@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1673618368 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tubes\tubes2\main.cpp
+	"tubes2.h"
+
+1673614618 c:\users\acer\documents\kuliah\smt 3\struktur data\tubes\tubes2\tubes2.h
+	<iostream>
+
+1673618263 source:c:\users\acer\documents\kuliah\smt 3\struktur data\tubes\tubes2\tubes2.cpp
+	"tubes2.h"
+
